@@ -1,0 +1,52 @@
+<modules>
+	<module name="Matched Filt. 1">
+		<resource type="CLB">500</resource>
+		<resource type="DSP">34</resource>
+		<resource type="BRAM">0</resource>
+	</module>
+	<module name="Carrier Rec. 1">
+		<resource type="CLB">123</resource>
+		<resource type="DSP">8</resource>
+		<resource type="BRAM">0</resource>
+	</module>
+	<module name="Demodulator 1">
+		<resource type="CLB">97</resource>
+		<resource type="DSP">0</resource>
+		<resource type="BRAM">8</resource>
+	</module>
+	<module name="Decoder 1">
+		<resource type="CLB">234</resource>
+		<resource type="DSP">0</resource>
+		<resource type="BRAM">2</resource>
+	</module>
+	<module name="Video Dec. 1">
+		<resource type="CLB">1100</resource>
+		<resource type="DSP">34</resource>
+		<resource type="BRAM">6</resource>
+	</module>
+	<module name="Matched Filt. 2">
+		<resource type="CLB">500</resource>
+		<resource type="DSP">34</resource>
+		<resource type="BRAM">0</resource>
+	</module>
+	<module name="Carrier Rec. 2">
+		<resource type="CLB">123</resource>
+		<resource type="DSP">8</resource>
+		<resource type="BRAM">0</resource>
+	</module>
+	<module name="Demodulator 2">
+		<resource type="CLB">97</resource>
+		<resource type="DSP">0</resource>
+		<resource type="BRAM">8</resource>
+	</module>
+	<module name="Decoder 2">
+		<resource type="CLB">234</resource>
+		<resource type="DSP">0</resource>
+		<resource type="BRAM">2</resource>
+	</module>
+	<module name="Video Dec. 2">
+		<resource type="CLB">1100</resource>
+		<resource type="DSP">34</resource>
+		<resource type="BRAM">6</resource>
+	</module>
+</modules>
